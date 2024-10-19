@@ -1,1 +1,8 @@
-# P1
+# Analisis para formular  la compras
+
+## ASDALFBA
+### Objetivos
+
+
+
+
